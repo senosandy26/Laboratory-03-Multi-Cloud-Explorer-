@@ -1,6 +1,6 @@
 # Checkpoint 4 – Cloud Platform Recommendation Challenge
 
- Client A is a startup company.
+ # Client A is a startup company.
 
 Amazon Web Services (AWS) is recommended for use with this Cloud Platform.
 
@@ -14,7 +14,7 @@ Services:
 
 
 
- Client B – University
+ # Client B – University
 
 Recommended Cloud Platform: Microsoft Azure
 
@@ -28,7 +28,7 @@ Services:
 
 
 
- Client C: AI Research Company
+# Client C: AI Research Company
 
 The recommended Cloud Platform is Google Cloud Platform (GCP).
 
@@ -42,7 +42,7 @@ Services:
 
 
 
- Client D: Global E-Commerce Company
+ # Client D: Global E-Commerce Company
 
 Cloud Platform: Amazon Web Services (AWS) is recommended.
 

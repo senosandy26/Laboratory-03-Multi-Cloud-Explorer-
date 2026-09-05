@@ -29,7 +29,7 @@ I.  Broad Services – AWS offers numerous services related to computing, storag
 
 II. Global infrastructure – AWS has a vast global infrastructure, enabling organisations to deploy applications in various geographical areas.
 
-Scalability and flexibility – AWS resources can be scaled up or down as per the demand of the workload, supporting organisations to meet the changing demands.
+III. Scalability and flexibility – AWS resources can be scaled up or down as per the demand of the workload, supporting organisations to meet the changing demands.
 
 # 6. Common Enterprise Applications
 

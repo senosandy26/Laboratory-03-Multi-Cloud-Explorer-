@@ -1,1 +1,10 @@
-# Laboratory-03-Multi-Cloud-Explorer-
+Laboratory-03-Multi-Cloud-Explorer
+│
+├── README.md
+├── aws-research.md
+├── azure-research.md
+├── gcp-research.md
+├── cloud-platform-comparison.md
+├── client-recommendations.md
+├── reflection.md
+└── screenshots

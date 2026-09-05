@@ -53,3 +53,17 @@ Services:
  Amazon EC2 provides scalable computing infrastructure.Amazon EC2 is a scalable computing infrastructure.
  ELB – distributes traffic to application resources
  Amazon DynamoDB is a highly scalable NoSQL database.
+
+
+# Checkpoint 6 – Multi-Cloud Decision Matrix
+
+| Business Requirement        | Recommended Platform  | Justification                                                                                                   |
+| --------------------------- | --------------------- | --------------------------------------------------------------------------------------------------------------- |
+| **Startup Company**         | AWS                   | Provides numerous services, flexible pricing and resources that can grow with the startup.   |
+| **Enterprise Organization** | Microsoft Azure       | Offers robust enterprise capabilities, security, compliance, and integration with business systems.         |
+| **Microsoft Environment**   | Microsoft Azure       | Works well with Microsoft products such as Windows Server, Microsoft 365, Active Directory, and .NET.          |
+| **AI / Machine Learning**   | Google Cloud Platform | Offers robust AI and machine learning capabilities, such as Vertex AI and powerful data analytics services.        |
+| **Kubernetes Deployment**   | Google Cloud Platform | Google built Kubernetes and provides Google Kubernetes Engine (GKE) to deploy Kubernetes.        |
+| **Global Web Application**  | AWS                   | Offers a massive worldwide infrastructure and numerous services to build, deploy and scale web apps.
+ |
+

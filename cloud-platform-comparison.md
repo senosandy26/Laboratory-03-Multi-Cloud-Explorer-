@@ -7,6 +7,7 @@ Contact the relevant cloud provider to request a free quote.Request a free quote
 Azure Active Directory |
 Broad range of cloud services and global infrastructure; Strong Microsoft integration and enterprise solutions; Artificial Intelligence, machine learning, data analytics and Kubernetes |
 Startups / enterprise / ecommerce / organizations with a large number of cloud services | Organizations with a Microsoft product / enterprise environment | Organizations using AI / ML / data-driven / Kubernetes |
+
  Questions and Answers
 
 1.Which cloud provider offers the broadest range of services? 

@@ -1,14 +1,12 @@
-Cloud Platform Comparison
-
-Category | AWS | Microsoft Azure | Google Cloud Platform | 
-| Launch Year | 2006 | 2010 | 2008 |
+Service | AWS | Microsoft Azure | Google Cloud Platform |
+|---|---|---|---|
+| **Launch Year** | 2006 | 2010 | 2008 |
 Compute Service | Amazon EC2 | Azure Virtual Machines | Google Compute Engine |
-Amazon S3 Storage Service | Azure Blob Storage Storage Service | Google Cloud Storage Storage Service |
-Type of Network Service | Amazon VPC | Azure Virtual Network | Google Cloud VPC |
-An identity service | AWS IAM | Microsoft Entra ID | Google Cloud IAM |
-Primary Weakness | Limited support for other cloud providers and limited global infrastructure | Limited support for other Microsoft products and enterprise solutions | Artificial Intelligence, machine learning, data analytics and Kubernetes |
-Ideal Organizations | Startups, enterprises, e-commerce, and organizations that require numerous cloud services | Organizations that rely on Microsoft products and enterprise environments | AI/ML organizations, data-driven companies or organizations that use Kubernetes |
-
+Change or delete data in the S3 bucket to test the data transfer.Change and/or delete the data in the S3 bucket to test data transfer.
+Contact the relevant cloud provider to request a free quote.Request a free quote by contacting the relevant cloud provider.
+Azure Active Directory |
+Broad range of cloud services and global infrastructure; Strong Microsoft integration and enterprise solutions; Artificial Intelligence, machine learning, data analytics and Kubernetes |
+Startups / enterprise / ecommerce / organizations with a large number of cloud services | Organizations with a Microsoft product / enterprise environment | Organizations using AI / ML / data-driven / Kubernetes |
  Questions and Answers
 
 1.Which cloud provider offers the broadest range of services? 

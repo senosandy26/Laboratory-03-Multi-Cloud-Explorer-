@@ -1,3 +1,5 @@
+# Checkpoint 4 – Cloud Platform Recommendation Challenge
+
  Client A is a startup company.
 
 Amazon Web Services (AWS) is recommended for use with this Cloud Platform.
